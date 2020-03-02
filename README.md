@@ -12,15 +12,5 @@
 ./run.out
 ```
 
-시연 영상
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_y9fSZlnYQc" frameborder="0" allowfullscreen=""></iframe>
-
-
-
-```
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-```
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+시연 영상: https://youtu.be/_y9fSZlnYQc
 
